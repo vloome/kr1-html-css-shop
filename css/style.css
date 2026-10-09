@@ -41,11 +41,12 @@ html {
 /* ===============================
    2. Базовые стили
    =============================== */
-   
+
 :target {
   outline: 2px dashed var(--color-primary);
   outline-offset: 4px;
 }
+
 * {
   box-sizing: border-box;
 }
